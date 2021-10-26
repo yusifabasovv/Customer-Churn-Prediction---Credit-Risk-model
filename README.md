@@ -4,8 +4,8 @@
 
 **Credit risk database is a typical banking database containing information about loan applications. Usually it contains information on all parameters which are completed by the risk department in order to evaluate the applicants’ status and make the decision on the loan provision.** 
 
-Loan ID - ID of the application in the database. Applied automatically by the system.\ 
-Gender - select from the list Male or Female 
+Loan ID - ID of the application in the database. Applied automatically by the system.
+\Gender - select from the list Male or Female 
 Married - marital status of the loan applicant, select from the list Yes or No 
 Dependents - number of dependents of the loan applicant, select from the list 0, 1, 2 or 3+ 
 Education - educational level of the applicant, select from the list Graduate or Not Graduate 
