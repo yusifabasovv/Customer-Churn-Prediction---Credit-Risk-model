@@ -16,5 +16,5 @@ LoanAmount - amount of the loan considered in thousands USD
 Loan_Amount_Term - loan length in months  
 Credit_History - availability of previous credit history of the applicant, select from the list Yes or No  
 Property_Area - property location classification according to the dictionary: Urban, Semiurban, Rural  
-Loan_Status - the final decision made on the loan provision to the applicant, select from the list Y or N
+Loan_Status - the final decision made on the loan provision to the applicant, select from the list Y or N**
 
